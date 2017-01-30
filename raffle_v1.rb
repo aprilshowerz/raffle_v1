@@ -1,0 +1,1 @@
+check to see if a number (value) exists in an array.
